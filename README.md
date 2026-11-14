@@ -8,11 +8,12 @@ Ruby Association, DataCamp, CISSP.
 
 Love Emacs. Love Elixir.
 
-![Emacs, Elixir, Ruby, TypeScript, JavaScript, Bash, Python, Go, AWS](https://skillicons.dev/icons?i=emacs,elixir,ruby,ts,js,bash,python,go,aws&perline=5&theme=dark)
+![Emacs, Elixir, Ruby, Rails, TypeScript, JavaScript, Node.js, Bash, Python, Go, OCaml, Swift, Kotlin, Haskell, AWS, GCP, Terraform, Ansible, Docker, Jenkins, Raspberry Pi, PostgreSQL, DynamoDB, Linux, Git, Apple, Android Studio, Markdown](https://skillicons.dev/icons?i=emacs,elixir,ruby,rails,typescript,javascript,nodejs,bash,python,golang,ocaml,swift,kotlin,haskell,aws,gcp,terraform,ansible,docker,jenkins,raspberrypi,postgresql,dynamodb,linux,git,apple,androidstudio,markdown&perline=7&theme=dark)
 
-![CISSP](https://img.shields.io/badge/CISSP-0d1117?style=for-the-badge&logo=isc2&logoColor=ceb070)
-![Ruby Association](https://img.shields.io/badge/Ruby_Association-0d1117?style=for-the-badge&logo=ruby&logoColor=CC342D)
-![DataCamp](https://img.shields.io/badge/DataCamp-0d1117?style=for-the-badge&logo=datacamp&logoColor=03EF62)
+![CISSP](https://img.shields.io/badge/CISSP-353e59?style=for-the-badge&logo=isc2&logoColor=cca363)
+![Ruby Association](https://img.shields.io/badge/Ruby_Association-353e59?style=for-the-badge&logo=ruby&logoColor=cca363)
+![DataCamp](https://img.shields.io/badge/DataCamp-353e59?style=for-the-badge&logo=datacamp&logoColor=cca363)
+![Red](https://img.shields.io/badge/Red-353e59?style=for-the-badge)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=nabinno&layout=donut&hide=html&disable_animations=true&bg_color=0d1117&title_color=ceb070&text_color=e6edf3&border_color=30363d)
-![nabinno's github stats](https://github-stats-extended.vercel.app/api?username=nabinno&show_icons=true&disable_animations=true&hide=contribs&bg_color=0d1117&title_color=ceb070&text_color=e6edf3&icon_color=ceb070&ring_color=ceb070&border_color=30363d&line_height=32)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=nabinno&layout=donut&hide=html&disable_animations=true&bg_color=353e59&title_color=eacd9a&text_color=b0c19d&icon_color=cca363&border_color=a96d49)
+![nabinno's github stats](https://github-stats-extended.vercel.app/api?username=nabinno&show_icons=true&disable_animations=true&hide=contribs&bg_color=353e59&title_color=eacd9a&text_color=b0c19d&icon_color=cca363&ring_color=cca363&border_color=a96d49&line_height=32)
