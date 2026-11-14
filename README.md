@@ -16,4 +16,4 @@ Love Emacs. Love Elixir.
 ![Red](https://img.shields.io/badge/Red-353e59?style=for-the-badge)
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=nabinno&layout=donut&hide=html&disable_animations=true&bg_color=353e59&title_color=eacd9a&text_color=b0c19d&icon_color=cca363&border_color=a96d49)
-![nabinno's github stats](https://github-stats-extended.vercel.app/api?username=nabinno&show_icons=true&disable_animations=true&hide=contribs&bg_color=353e59&title_color=eacd9a&text_color=b0c19d&icon_color=cca363&ring_color=cca363&border_color=a96d49&line_height=32)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nabinno&show_icons=true&disable_animations=true&hide=contribs&custom_title=GitHub%20Stats&bg_color=353e59&title_color=eacd9a&text_color=b0c19d&icon_color=cca363&ring_color=cca363&border_color=a96d49&line_height=32)
